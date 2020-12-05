@@ -1,3 +1,10 @@
+"""
+check number of common letters in two strings
+
+example 
+
+'hello' and 'well' return 3 coz l appears twice and e appears once
+"""
 def commonChars(s1, s2):
     c = 0
     cT = []
