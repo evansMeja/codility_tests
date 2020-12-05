@@ -1,5 +1,5 @@
 # codility_tests
 
-## given a list strings?
+## Code Master
 
 This containers holds my codility programming problems
